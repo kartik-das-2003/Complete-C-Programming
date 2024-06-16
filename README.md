@@ -1,2 +1,2 @@
-# Complete-C-Programming-Full
+# Complete-C-Programming
 C Programming Language
